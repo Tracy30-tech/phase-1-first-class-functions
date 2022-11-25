@@ -29,7 +29,7 @@ describe("index", () => {
     });
   });
 
-  describe("returnsAnAnonymousFunction()", () => {
+  describe("(returnsAnAnonymousFunction)", () => {
     var fn;
 
     before(() => {
